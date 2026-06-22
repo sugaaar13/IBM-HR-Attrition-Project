@@ -1,0 +1,24 @@
+﻿AgeGroup,BusinessTravel,DistanceGroup,total_employees,employees_left,attrition_rate_pct
+Under 30,Travel_Frequently,Far (>15 km),9,5,55.600000000000
+Under 30,Travel_Frequently,Near (<=15 km),50,20,40.000000000000
+Under 30,Non-Travel,Far (>15 km),5,2,40.000000000000
+Under 30,Travel_Rarely,Far (>15 km),64,19,29.700000000000
+30-40,Travel_Frequently,Far (>15 km),31,9,29.000000000000
+41-50,Travel_Frequently,Far (>15 km),21,6,28.600000000000
+Under 30,Travel_Rarely,Near (<=15 km),176,43,24.400000000000
+41-50,Travel_Frequently,Near (<=15 km),41,8,19.500000000000
+30-40,Travel_Rarely,Far (>15 km),92,17,18.500000000000
+30-40,Travel_Frequently,Near (<=15 km),106,19,17.900000000000
+50+,Travel_Rarely,Near (<=15 km),89,13,14.600000000000
+50+,Travel_Frequently,Near (<=15 km),14,2,14.300000000000
+30-40,Non-Travel,Far (>15 km),21,3,14.300000000000
+50+,Travel_Rarely,Far (>15 km),24,3,12.500000000000
+30-40,Travel_Rarely,Near (<=15 km),373,43,11.500000000000
+41-50,Non-Travel,Far (>15 km),10,1,10.000000000000
+Under 30,Non-Travel,Near (<=15 km),22,2,9.100000000000
+41-50,Travel_Rarely,Near (<=15 km),181,15,8.300000000000
+41-50,Travel_Rarely,Far (>15 km),44,3,6.800000000000
+30-40,Non-Travel,Near (<=15 km),56,3,5.400000000000
+41-50,Non-Travel,Near (<=15 km),25,1,4.000000000000
+50+,Non-Travel,Near (<=15 km),8,0,0.000000000000
+50+,Travel_Frequently,Far (>15 km),5,0,0.000000000000

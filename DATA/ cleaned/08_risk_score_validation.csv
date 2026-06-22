@@ -1,0 +1,4 @@
+﻿RiskTier,total_employees,actually_left,actual_attrition_rate_pct
+High Risk,31,12,38.700000000000
+Medium Risk,592,134,22.600000000000
+Low Risk,847,91,10.700000000000
