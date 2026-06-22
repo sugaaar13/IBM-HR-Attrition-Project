@@ -1,0 +1,11 @@
+﻿EmployeeNumber,Department,Attrition,AttritionFlag,TenureBucket,AgeGroup,DistanceGroup,IncomeLevel
+1,Sales,Yes,1,6-10 yrs,41-50,Near (<=15 km),Mid Income
+2,Research & Development,No,0,6-10 yrs,41-50,Near (<=15 km),Mid Income
+4,Research & Development,Yes,1,0-2 yrs,30-40,Near (<=15 km),Low Income
+5,Research & Development,No,0,6-10 yrs,30-40,Near (<=15 km),Low Income
+7,Research & Development,No,0,0-2 yrs,Under 30,Near (<=15 km),Mid Income
+8,Research & Development,No,0,6-10 yrs,30-40,Near (<=15 km),Mid Income
+10,Research & Development,No,0,0-2 yrs,50+,Near (<=15 km),Low Income
+11,Research & Development,No,0,0-2 yrs,30-40,Far (>15 km),Low Income
+12,Research & Development,No,0,6-10 yrs,30-40,Far (>15 km),High Income
+13,Research & Development,No,0,6-10 yrs,30-40,Far (>15 km),Mid Income
