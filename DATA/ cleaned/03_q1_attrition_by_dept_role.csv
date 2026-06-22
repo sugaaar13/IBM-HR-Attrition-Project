@@ -1,0 +1,12 @@
+﻿Department,JobRole,total_employees,employees_left,attrition_rate_pct
+Sales,Sales Representative,83,33,39.800000000000
+Research & Development,Laboratory Technician,259,62,23.900000000000
+Human Resources,Human Resources,52,12,23.100000000000
+Sales,Sales Executive,326,57,17.500000000000
+Research & Development,Research Scientist,292,47,16.100000000000
+Research & Development,Healthcare Representative,131,9,6.900000000000
+Research & Development,Manufacturing Director,145,10,6.900000000000
+Research & Development,Manager,54,3,5.600000000000
+Sales,Manager,37,2,5.400000000000
+Research & Development,Research Director,80,2,2.500000000000
+Human Resources,Manager,11,0,0.000000000000
